@@ -6,3 +6,5 @@ Requisitos:
 - Descomprimir el archivo en su dispositivo.
 - Abrir Obsidian
 - Abrir bóveda de Obsidian y elegir la carpeta descomprimida
+- Desactivar modo seguro
+- En configuracion general: modifique el modo y elija **Vista lectura**
